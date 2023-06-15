@@ -50,11 +50,11 @@
 
 - Uji coba upload dengan mengakses menu tambah artikel.
 
-![Upload Gambar](img/1.png)
+![Upload Gambar](img/1.JPG)
 
 - Hasilnya akan seperti ini ketika gambar telah di upload.
 
-![Hasil](img/2.png)
+![Hasil](img/2.JPG)
 
 ## Pertanyaan dan Tugas
 <p>Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan improvisasi.</p>
